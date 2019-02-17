@@ -12,3 +12,17 @@ font-size:14px;
 padding:5px 10px 5px 10px;
     
 }
+#add-new-todo-button{
+ font-size:20px;
+ text-align:center;
+ color: #fff;
+ outline:none;
+ border-style:none;
+ padding:10px;
+ border-radius:3px;
+ box-shadow:2px 2px 1px #90A4AE;
+ display:block;
+ background-color:#03A9F4;
+ margin-top: 10px;
+}
+ 
